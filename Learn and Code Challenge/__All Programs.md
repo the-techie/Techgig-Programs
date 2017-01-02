@@ -18,7 +18,7 @@ Day #08 : <a href="ArmstrongDemo.java">ArmstrongDemo</a>
 
 Day #09 : <a href="NarcissisticDemo.java">NarcissisticDemo</a>
 
-Day #10 :<a href="SecondLargestDemo.java">SecondLargestDemo</a>
+Day #10 : <a href="SecondLargestDemo.java">SecondLargestDemo</a>
 
 Day #11 : <a href="StringCounterDemo.java">StringCounterDemo</a>
 
