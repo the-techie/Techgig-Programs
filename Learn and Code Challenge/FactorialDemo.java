@@ -1,4 +1,4 @@
-* Read input from STDIN. Print your output to STDOUT*/
+/* Read input from STDIN. Print your output to STDOUT*/
 
 import java.io.*;
 import java.util.*;
