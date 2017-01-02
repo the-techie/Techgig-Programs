@@ -41,7 +41,7 @@ Day #18 : <a href="SortingSubArrayDemo.java">SortingSubArrayDemo</a>
 
 Day #19 : <a href="BinaryToDecimalDemo.java">BinaryToDecimalDemo</a>
 
-Day #20 :<a href="CylinderStarPatternDemo.java">CylinderStarPatternDemo</a>
+Day #20 : <a href="CylinderStarPatternDemo.java">CylinderStarPatternDemo</a>
 
 Day #21 : <a href="AddProductOddEvenDemo.java">AddProductOddEvenDemo</a>
 
@@ -61,4 +61,4 @@ Day #28 : <a href="CompareSumOfDigitsDemo.java">CompareSumOfDigitsDemo</a>
 
 Day #29 : <a href="CompareDiagonalMatrixDemo.java">CompareDiagonalMatrixDemo</a>
 
-Day #30 :<a href="CompareMatrixRowsDemo.java">CompareMatrixRowsDemo</a>
+Day #30 : <a href="CompareMatrixRowsDemo.java">CompareMatrixRowsDemo</a>
