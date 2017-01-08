@@ -1,64 +1,67 @@
 Techgig Learn and Code Challenge Programs List
 ----------------------------------------------
-Day #01 : <a href="AddStringDemo.java">AddStringDemo</a>
+Official Link to the Techgig code challenge questions : https://www.techgig.com/challenge/learn-day1
 
-Day #02 : <a href="ConditionalsDemo.java">ConditionalsDemo</a>
+Day #01 : <a href="AddStringDemo.java">Hello Techgig</a>
 
-Day #03 : <a href="FactorialDemo.java">FactorialDemo</a>
+Day #02 : <a href="GetClassDemo.java">Exploring Data Types</a>
 
-Day #04 : <a href="GetClassDemo.java">GetClassDemo</a>
+Day #03 : <a href="SimpleInterestDemo.java">Play with Operators</a>
 
-Day #05 : <a href="SimpleInterestDemo.java">SimpleInterestDemo</a>
+Day #04 : <a href="ConditionalsDemo.java">Decide yourself with Conditional Statement</a>
 
-Day #06 : <a href="NumberCountDemo.java">NumberCountDemo</a>
+Day #05 : <a href="FactorialDemo.java">Loop your world</a>
 
-Day #07 : <a href="PrimeCountDemo.java">PrimeCountDemo</a>
+Day #06 : <a href="NumberCountDemo.java">How much big is your number?</a>
 
-Day #08 : <a href="ArmstrongDemo.java">ArmstrongDemo</a>
+Day #07 : <a href="PrimeCountDemo.java">Count special number between boundaries</a>
 
-Day #09 : <a href="NarcissisticDemo.java">NarcissisticDemo</a>
+Day #08 : <a href="ArmstrongDemo.java">Is your number Armstrong?</a>
 
-Day #10 : <a href="SecondLargestDemo.java">SecondLargestDemo</a>
+Day #09 : <a href="NarcissisticDemo.java">Is your number Narcissistic?</a>
 
-Day #11 : <a href="StringCounterDemo.java">StringCounterDemo</a>
+Day #10 : <a href="SecondLargestDemo.java">Who's the second largest?</a>
 
-Day #12 : <a href="MatrixAdditionDemo.java">MatrixAdditionDemo</a>
+Day #11 : <a href="StringCounterDemo.java">Count the letters</a>
 
-Day #13 : <a href="MatrixRollDemo.java">MatrixRollDemo</a>
+Day #12 : <a href="MatrixAdditionDemo.java">Patch up two Matrices</a>
 
-Day #14 : <a href="DictionaryLexicalDemo.java">DictionaryLexicalDemo</a>
+Day #13 : <a href="MatrixRollDemo.java">Roll your matrix</a>
 
-Day #15 : <a href="PowerRecursionDemo.java">PowerRecursionDemo</a>
+Day #14 : <a href="DictionaryLexicalDemo.java">Let's make a dictionary order</a>
 
-Day #16 : (i) <a href="GCDDemo.java">GCDDemo</a>
-         (ii) <a href="GCDDemo2.java">GCDDemo2</a>
-        (iii) <a href="GCDEuclideanDemo.java">GCDEuclideanDemo</a>
-         (iV) <a href="GCDRecursionDemo.java">GCDRecursionDemo</a>
+Day #15 : <a href="PowerRecursionDemo.java">Calculate power using recursion</a>
 
-Day #17 : <a href="FindInArrayDemo.java">FindInArrayDemo</a>
+Day #16 : (i) <a href="GCDDemo.java">GCD of two numbers - Solution 1</a>
+         (ii) <a href="GCDDemo2.java">GCD of two numbers - Solution 2</a>
+        (iii) <a href="GCDEuclideanDemo.java">GCD of two numbers - Euclidean Method</a>
+         (iV) <a href="GCDRecursionDemo.java">GCD of two numbers - Recursion Method</a>
 
-Day #18 : <a href="SortingSubArrayDemo.java">SortingSubArrayDemo</a>
+Day #17 : <a href="FindInArrayDemo.java">Find pairs in Array</a>
 
-Day #19 : <a href="BinaryToDecimalDemo.java">BinaryToDecimalDemo</a>
+Day #18 : <a href="SortingSubArrayDemo.java">Minimum effort - Maximum output</a>
 
-Day #20 : <a href="CylinderStarPatternDemo.java">CylinderStarPatternDemo</a>
+Day #19 : <a href="BinaryToDecimalDemo.java">Binary to Decimal</a>
 
-Day #21 : <a href="AddProductOddEvenDemo.java">AddProductOddEvenDemo</a>
+Day #20 : <a href="CylinderStarPatternDemo.java">Star pattern</a>
 
-Day #22 : <a href="AddSubtractOddEvenDemo.java">AddSubtractOddEvenDemo</a>
+Day #21 : <a href="AddProductOddEvenDemo.java">Multiply Sum of Odds with Sum of Evens</a>
 
-Day #23 : <a href="MinVSMaxArrayDemo.java">MinVSMaxArrayDemo</a>
+Day #22 : <a href="AddSubtractOddEvenDemo.java">War between Odd and Even</a>
+
+Day #23 : <a href="MinVSMaxArrayDemo.java">Maximum vs. Minimum</a>
 
 Day #24 : <a href="AverageOddEvenDemo.java">AverageOddEvenDemo</a>
 
-Day #25 : <a href="ConsecutiveArrayDemo.java">ConsecutiveArrayDemo</a>
+Day #25 : <a href="ConsecutiveArrayDemo.java">Consecutive Array</a>
 
-Day #26 : <a href="BiggestDigitDemo.java">BiggestDigitDemo</a>
+Day #26 : <a href="BiggestDigitDemo.java">Biggest Digit in a Number</a>
 
-Day #27 : <a href="OddEvenSubtractDemo.java">OddEvenSubtractDemo</a>
+Day #27 : <a href="OddEvenSubtractDemo.java">Play with Digits of a Number</a>
 
-Day #28 : <a href="CompareSumOfDigitsDemo.java">CompareSumOfDigitsDemo</a>
+Day #28 : <a href="CompareSumOfDigitsDemo.java">Compare two Numbers</a>
 
-Day #29 : <a href="CompareDiagonalMatrixDemo.java">CompareDiagonalMatrixDemo</a>
+Day #29 : <a href="CompareDiagonalMatrixDemo.java">Comparing Diagonals of a Matrix</a>
 
-Day #30 : <a href="CompareMatrixRowsDemo.java">CompareMatrixRowsDemo</a>
+Day #30 : <a href="CompareMatrixRowsDemo.java">Comparing Rows of a Matrix </a>
+
