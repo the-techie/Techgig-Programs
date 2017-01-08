@@ -33,7 +33,7 @@ Day #14 : <a href="DictionaryLexicalDemo.java">Let's make a dictionary order</a>
 
 Day #15 : <a href="PowerRecursionDemo.java">Calculate power using recursion</a>
 
-Day #16 : (i) <a href="GCDDemo.java">GCD of two numbers - Solution 1</a><br />
+Day #16 : <br />(i) <a href="GCDDemo.java">GCD of two numbers - Solution 1</a><br />
          (ii) <a href="GCDDemo2.java">GCD of two numbers - Solution 2</a><br />
          (iii) <a href="GCDEuclideanDemo.java">GCD of two numbers - Euclidean Method</a><br />
          (iV) <a href="GCDRecursionDemo.java">GCD of two numbers - Recursion Method</a><br />
