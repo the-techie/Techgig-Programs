@@ -1,10 +1,10 @@
 **Techgig - Learn and Code Challenge**
 ====================
 
-> **Official Link to "Learn and Code Challenge" Questions :** https://www.techgig.com/challenge/learn-day1
+> **Official Link to "Learn and Code Challenge" :** https://www.techgig.com/challenge/learn-day1
 
 
-
+----------
 
 ## Day 01 : Hello Techgig
 
