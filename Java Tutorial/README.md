@@ -49,7 +49,7 @@ You need to return the first character of the given string as a string to the ST
 
 ----------
 
-> **Solution -** [FirstNFirst.java](#)
+> **Solution -** [FirstNFirst.java](FirstNFirst.java)
 
 ----------
 
@@ -86,7 +86,7 @@ You need to return the slice of the string.
 ----------
 
 
-> **Solution -** [StringSlice.java](#)
+> **Solution -** [StringSlice.java](StringSlice.java)
 
 
 ----------
@@ -122,7 +122,7 @@ You need to return the concatenated string from the given function.
 ----------
 
 
-> **Solution -** [ConnectionOfStrings.java](#)
+> **Solution -** [ConnectionOfStrings.java](ConnectionOfStrings.java)
 
 
 ----------
@@ -157,7 +157,7 @@ You need to return the string from the given function.
 ----------
 
 
-> **Solution -** [StringRepeat.java](#)
+> **Solution -** [StringRepeat.java](StringRepeat.java)
 
 
 ----------
@@ -193,7 +193,7 @@ return 'True' if that character is present in that string otherwise return 'Fals
 ----------
 
 
-> **Solution -** [MemberInString.java](#)
+> **Solution -** [MemberInString.java](MemberInString.java)
 
 
 ----------
@@ -228,7 +228,7 @@ You need to return the string from the given function.
 ----------
 
 
-> **Solution -** [FirstCapitalString.java](#)
+> **Solution -** [FirstCapitalString.java](FirstCapitalString.java)
 
 
 ----------
@@ -264,7 +264,7 @@ You need to return the count from the given function.
 ----------
 
 
-> **Solution -** [StringCount.java](#)
+> **Solution -** [StringCount.java](StringCount.java)
 
 
 ----------
@@ -299,7 +299,7 @@ You need to return the boolean value(either True or False) to the STDOUT.
 
 ----------
 
-> **Solution -** [StringSuffix.java](#)
+> **Solution -** [StringSuffix.java](StringSuffix.java)
 
 
 ----------
@@ -334,7 +334,7 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-> **Solution -** [StringAlphaNum.java](#)
+> **Solution -** [StringAlphaNum.java](StringAlphaNum.java)
 
 
 ----------
@@ -369,7 +369,7 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-> **Solution -** [StringAlphabetix.java](#)
+> **Solution -** [StringAlphabetix.java](StringAlphabetix.java)
 
 
 ----------
@@ -403,7 +403,7 @@ You need to return the boolean value(either True or False) from the given functi
 
 ----------
 
-> **Solution -** [Digitizing.java](#)
+> **Solution -** [Digitizing.java](Digitizing.java)
 
 
 ----------
@@ -438,7 +438,7 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-> **Solution -** [Lowercase.java](#)
+> **Solution -** [Lowercase.java](Lowercase.java)
 
 
 ----------
@@ -474,7 +474,7 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-> **Solution -** [Numeric.java](#)
+> **Solution -** [Numeric.java](Numeric.java)
 
 
 ----------
@@ -509,7 +509,7 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-> **Solution -** [TitleCase.java](#)
+> **Solution -** [TitleCase.java](TitleCase.java)
 
 
 ----------
@@ -547,5 +547,9 @@ All Programs - https://www.techgig.com/practice/java/final-project
 ===================
 
 All Programs - https://www.techgig.com/practice/java/java-advanced
+
+
+----------
+
 
 
