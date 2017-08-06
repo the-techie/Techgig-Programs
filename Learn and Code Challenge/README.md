@@ -10,7 +10,7 @@
 
 ----------
 
-> Solution : AddStringDemo.java
+> **Solution :** [AddStringDemo.java]{#}
 
 ----------
 
@@ -18,7 +18,7 @@
 
 ----------
 
-> Solution : GetClassDemo.java
+> **Solution :** [GetClassDemo.java]{#}
 
 ----------
 
@@ -26,7 +26,7 @@
 
 ----------
 
-> Solution : SimpleInterestDemo.java
+> **Solution :** [SimpleInterestDemo.java]{#}
 
 ----------
 
@@ -34,7 +34,7 @@
 
 ----------
 
-> Solution : ConditionalsDemo.java
+> **Solution :** [ConditionalsDemo.java]{#}
 
 ----------
 
@@ -43,7 +43,7 @@
 
 ----------
 
-> Solution : FactorialDemo.java
+> **Solution :** [FactorialDemo.java]{#}
 
 ----------
 
@@ -52,7 +52,7 @@
 
 ----------
 
-> Solution : NumberCountDemo.java
+> **Solution :** [NumberCountDemo.java]{#}
 
 ----------
 
@@ -60,7 +60,7 @@
 
 ----------
 
-> Solution : PrimeCountDemo.java
+> **Solution :** [PrimeCountDemo.java]{#}
 
 ----------
 
@@ -68,7 +68,7 @@
 
 ----------
 
-> Solution : ArmstrongDemo.java
+> **Solution :** [ArmstrongDemo.java]{#}
 
 ----------
 
@@ -76,7 +76,7 @@
 
 ----------
 
-> Solution : NarcissisticDemo.java
+> **Solution :** [NarcissisticDemo.java]{#}
 
 ----------
 
@@ -84,7 +84,7 @@
 
 ----------
 
-> Solution : SecondLargestDemo.java
+> **Solution :** [SecondLargestDemo.java]{#}
 
 ----------
 
@@ -92,7 +92,7 @@
 
 ----------
 
-> Solution : StringCounterDemo.java
+> **Solution :** [StringCounterDemo.java]{#}
 
 ----------
 
@@ -100,46 +100,154 @@
 
 ----------
 
-Solution : MatrixAdditionDemo.java
+> **Solution :** [MatrixAdditionDemo.java]{#}
 
 ----------
 
-## Day #13 : <a href="MatrixRollDemo.java">Roll your matrix</a>
+## Day 13 : Roll your Matrix
 
-## Day #14 : <a href="DictionaryLexicalDemo.java">Let's make a dictionary order</a>
+----------
 
-## Day #15 : <a href="PowerRecursionDemo.java">Calculate power using recursion</a>
+> **Solution :** [MatrixRollDemo.java]{#}
 
-## Day #16 : <br />(i) <a href="GCDDemo.java">GCD of two numbers - Solution 1</a><br />
-         (ii) <a href="GCDDemo2.java">GCD of two numbers - Solution 2</a><br />
-         (iii) <a href="GCDEuclideanDemo.java">GCD of two numbers - Euclidean Method</a><br />
-         (iV) <a href="GCDRecursionDemo.java">GCD of two numbers - Recursion Method</a><br />
+----------
 
-## Day #17 : <a href="FindInArrayDemo.java">Find pairs in Array</a>
+## Day 14 : Let's Make a Dictionary Order
 
-## Day #18 : <a href="SortingSubArrayDemo.java">Minimum effort - Maximum output</a>
+----------
 
-## Day #19 : <a href="BinaryToDecimalDemo.java">Binary to Decimal</a>
+> **Solution :** [DictionaryLexicalDemo.java]{#}
 
-## Day #20 : <a href="CylinderStarPatternDemo.java">Star pattern</a>
- 
-## Day #21 : <a href="AddProductOddEvenDemo.java">Multiply Sum of Odds with Sum of Evens</a>
+----------
 
-## Day #22 : <a href="AddSubtractOddEvenDemo.java">War between Odd and Even</a>
+## Day 15 : Calculate Power using Recursion 
 
-## Day #23 : <a href="MinVSMaxArrayDemo.java">Maximum vs. Minimum</a>
+----------
 
-## Day #24 : <a href="AverageOddEvenDemo.java">AverageOddEvenDemo</a>
+> **Solution :** [PowerRecursionDemo.java]{#}
 
-## Day #25 : <a href="ConsecutiveArrayDemo.java">Consecutive Array</a>
+----------
 
-## Day #26 : <a href="BiggestDigitDemo.java">Biggest Digit in a Number</a>
+## Day 16 : GCD of Two Numbers
 
-## Day #27 : <a href="OddEvenSubtractDemo.java">Play with Digits of a Number</a>
+----------
 
-## Day #28 : <a href="CompareSumOfDigitsDemo.java">Compare two Numbers</a>
+> **Solution (i) :** [GCDDemo.java]{#}
+> **Solution (ii) :** [GCDDemo2.java]{#}
+> **Solution (iii) :** [GCDEuclideanDemo.java]{#} - Euclidean Method
+> **Solution (iv) :** [GCDRecursionDemo.java]{#} - Recursion Method
 
-## Day #29 : <a href="CompareDiagonalMatrixDemo.java">Comparing Diagonals of a Matrix</a>
+----------
 
-## Day #30 : <a href="CompareMatrixRowsDemo.java">Comparing Rows of a Matrix </a>
+## Day 17 : Find Pairs in Array
+
+----------
+
+> **Solution :** [FindInArrayDemo.java]{#}
+
+----------
+
+## Day 18 : Minimum Effort - Maximum Output
+
+----------
+
+> **Solution :** [SortingSubArrayDemo.java]{#}
+
+----------
+
+## Day 19 : Binary to Decimal
+
+----------
+
+> **Solution :** [BinaryToDecimalDemo.java]{#}
+
+----------
+
+## Day 20 : Star Pattern
+
+----------
+
+> **Solution :** [CylinderStarPatternDemo.java]{#}
+
+----------
+
+## Day 21 : Multiply Sum of Odds with Sum of Evens
+
+----------
+
+> **Solution :** [AddProductOddEvenDemo.java]{#}
+
+----------
+
+## Day 22 : War between Odd and Even
+
+----------
+
+> **Solution :** [AddSubtractOddEvenDemo.java]{#}
+
+----------
+
+## Day 23 : Maximum vs. Minimum
+
+----------
+
+> **Solution :** [MinVSMaxArrayDemo.java]{#}
+
+----------
+
+## Day 24 : Average Odd Even Demo
+
+----------
+
+> **Solution :** [AverageOddEvenDemo.java]{#}
+
+----------
+
+## Day 25 : Consecutive Array
+
+----------
+
+> **Solution :** [ConsecutiveArrayDemo.java]{#}
+
+----------
+
+## Day 26 : Biggest Digit in a Number
+
+----------
+
+> **Solution :** [BiggestDigitDemo.java]{#}
+
+----------
+
+## Day 27 : Play with Digits of a Number
+
+----------
+
+> **Solution :** [OddEvenSubtractDemo.java]{#}
+
+----------
+
+## Day 28 : Compare two Numbers
+
+----------
+
+> **Solution :** [CompareSumOfDigitsDemo.java]{#}
+
+----------
+
+## Day 29 : Comparing diagonals of a Matrix
+
+----------
+
+> **Solution :** [CompareDiagonalMatrixDemo.java]{#}
+
+----------
+
+## Day 30 : Comparing Rows of a Matrix
+
+----------
+
+> **Solution :** [CompareMatrixRowsDemo.java]{#}
+
+
 
