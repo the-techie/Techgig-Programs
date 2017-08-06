@@ -10,7 +10,7 @@
 
 ----------
 
-> **Solution :** [AddStringDemo.java]{#}
+> **Solution :** [AddStringDemo.java](#)
 
 ----------
 
@@ -18,7 +18,7 @@
 
 ----------
 
-> **Solution :** [GetClassDemo.java]{#}
+> **Solution :** [GetClassDemo.java](#)
 
 ----------
 
@@ -26,7 +26,7 @@
 
 ----------
 
-> **Solution :** [SimpleInterestDemo.java]{#}
+> **Solution :** [SimpleInterestDemo.java](#)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 ----------
 
-> **Solution :** [ConditionalsDemo.java]{#}
+> **Solution :** [ConditionalsDemo.java](#)
 
 ----------
 
@@ -43,7 +43,7 @@
 
 ----------
 
-> **Solution :** [FactorialDemo.java]{#}
+> **Solution :** [FactorialDemo.java](#)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 ----------
 
-> **Solution :** [NumberCountDemo.java]{#}
+> **Solution :** [NumberCountDemo.java](#)
 
 ----------
 
@@ -60,7 +60,7 @@
 
 ----------
 
-> **Solution :** [PrimeCountDemo.java]{#}
+> **Solution :** [PrimeCountDemo.java](#)
 
 ----------
 
@@ -68,7 +68,7 @@
 
 ----------
 
-> **Solution :** [ArmstrongDemo.java]{#}
+> **Solution :** [ArmstrongDemo.java](#)
 
 ----------
 
@@ -76,7 +76,7 @@
 
 ----------
 
-> **Solution :** [NarcissisticDemo.java]{#}
+> **Solution :** [NarcissisticDemo.java](#)
 
 ----------
 
@@ -84,7 +84,7 @@
 
 ----------
 
-> **Solution :** [SecondLargestDemo.java]{#}
+> **Solution :** [SecondLargestDemo.java](#)
 
 ----------
 
@@ -92,7 +92,7 @@
 
 ----------
 
-> **Solution :** [StringCounterDemo.java]{#}
+> **Solution :** [StringCounterDemo.java](#)
 
 ----------
 
@@ -100,7 +100,7 @@
 
 ----------
 
-> **Solution :** [MatrixAdditionDemo.java]{#}
+> **Solution :** [MatrixAdditionDemo.java](#)
 
 ----------
 
@@ -108,7 +108,7 @@
 
 ----------
 
-> **Solution :** [MatrixRollDemo.java]{#}
+> **Solution :** [MatrixRollDemo.java](#)
 
 ----------
 
@@ -116,7 +116,7 @@
 
 ----------
 
-> **Solution :** [DictionaryLexicalDemo.java]{#}
+> **Solution :** [DictionaryLexicalDemo.java](#)
 
 ----------
 
@@ -124,7 +124,7 @@
 
 ----------
 
-> **Solution :** [PowerRecursionDemo.java]{#}
+> **Solution :** [PowerRecursionDemo.java](#)
 
 ----------
 
@@ -132,10 +132,10 @@
 
 ----------
 
-> **Solution (i) :** [GCDDemo.java]{#}
-> **Solution (ii) :** [GCDDemo2.java]{#}
-> **Solution (iii) :** [GCDEuclideanDemo.java]{#} - Euclidean Method
-> **Solution (iv) :** [GCDRecursionDemo.java]{#} - Recursion Method
+> **Solution (i) :** [GCDDemo.java](#)
+> **Solution (ii) :** [GCDDemo2.java](#)
+> **Solution (iii) :** [GCDEuclideanDemo.java](#) - Euclidean Method
+> **Solution (iv) :** [GCDRecursionDemo.java](#) - Recursion Method
 
 ----------
 
@@ -143,7 +143,7 @@
 
 ----------
 
-> **Solution :** [FindInArrayDemo.java]{#}
+> **Solution :** [FindInArrayDemo.java](#)
 
 ----------
 
@@ -151,7 +151,7 @@
 
 ----------
 
-> **Solution :** [SortingSubArrayDemo.java]{#}
+> **Solution :** [SortingSubArrayDemo.java](#)
 
 ----------
 
@@ -159,7 +159,7 @@
 
 ----------
 
-> **Solution :** [BinaryToDecimalDemo.java]{#}
+> **Solution :** [BinaryToDecimalDemo.java](#)
 
 ----------
 
@@ -167,7 +167,7 @@
 
 ----------
 
-> **Solution :** [CylinderStarPatternDemo.java]{#}
+> **Solution :** [CylinderStarPatternDemo.java](#)
 
 ----------
 
@@ -175,7 +175,7 @@
 
 ----------
 
-> **Solution :** [AddProductOddEvenDemo.java]{#}
+> **Solution :** [AddProductOddEvenDemo.java](#)
 
 ----------
 
@@ -183,7 +183,7 @@
 
 ----------
 
-> **Solution :** [AddSubtractOddEvenDemo.java]{#}
+> **Solution :** [AddSubtractOddEvenDemo.java](#)
 
 ----------
 
@@ -191,7 +191,7 @@
 
 ----------
 
-> **Solution :** [MinVSMaxArrayDemo.java]{#}
+> **Solution :** [MinVSMaxArrayDemo.java](#)
 
 ----------
 
@@ -199,7 +199,7 @@
 
 ----------
 
-> **Solution :** [AverageOddEvenDemo.java]{#}
+> **Solution :** [AverageOddEvenDemo.java](#)
 
 ----------
 
@@ -207,7 +207,7 @@
 
 ----------
 
-> **Solution :** [ConsecutiveArrayDemo.java]{#}
+> **Solution :** [ConsecutiveArrayDemo.java](#)
 
 ----------
 
@@ -215,7 +215,7 @@
 
 ----------
 
-> **Solution :** [BiggestDigitDemo.java]{#}
+> **Solution :** [BiggestDigitDemo.java](#)
 
 ----------
 
@@ -223,7 +223,7 @@
 
 ----------
 
-> **Solution :** [OddEvenSubtractDemo.java]{#}
+> **Solution :** [OddEvenSubtractDemo.java](#)
 
 ----------
 
@@ -231,7 +231,7 @@
 
 ----------
 
-> **Solution :** [CompareSumOfDigitsDemo.java]{#}
+> **Solution :** [CompareSumOfDigitsDemo.java](#)
 
 ----------
 
@@ -239,7 +239,7 @@
 
 ----------
 
-> **Solution :** [CompareDiagonalMatrixDemo.java]{#}
+> **Solution :** [CompareDiagonalMatrixDemo.java](#)
 
 ----------
 
@@ -247,7 +247,7 @@
 
 ----------
 
-> **Solution :** [CompareMatrixRowsDemo.java]{#}
+> **Solution :** [CompareMatrixRowsDemo.java](#)
 
 
 
