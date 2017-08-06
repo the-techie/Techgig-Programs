@@ -133,8 +133,11 @@
 ----------
 
 > **Solution (i) :** [GCDDemo.java](GCDDemo.java)
+>
 > **Solution (ii) :** [GCDDemo2.java](GCDDemo2.java)
+>
 > **Solution (iii) :** [GCDEuclideanDemo.java](GCDEuclideanDemo.java) - Euclidean Method
+>
 > **Solution (iv) :** [GCDRecursionDemo.java](GCDRecursionDemo.java) - Recursion Method
 
 ----------
