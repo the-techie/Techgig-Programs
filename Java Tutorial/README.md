@@ -106,8 +106,6 @@ HelloHello
 Solution - StringRepeat.java
 --------------
 
-Membership in Strings
---------------
 Membership In Strings
 ---------------------
 Task : 
@@ -153,48 +151,170 @@ Solution - FirstCapitalString.java
 
 String Counting
 --------------
+Task : 
+You just need to take two strings as an input and count how many times later string comes in the former one. Return the count. 
+
+Input Format : 
+You will be given a function with two strings as an argument. 
+
+Output Format : 
+You need to return the count from the given function. 
+
+Sample Test Case: 
+Sample Input:
+Hello Techgighg
+hg
+
+Sample Output: 
+2 
 --------------
 Solution - StringCount.java
 --------------
 
 String with Suffix
 --------------
+Task : 
+You just need to take two strings as an input and check later string is the suffix of the former one. If yes, return 'True' else return 'False'. 
+
+Input Format : 
+You will be given a function with two strings as an arguments. 
+
+Output Format : 
+You need to return the boolean value(either True or False) to the STDOUT. 
+
+Sample Test Case: 
+Sample Input:
+Hello Techgig
+gig
+
+Sample Output: 
+1 
 --------------
 Solution - StringSuffix.java
 --------------
 
 String Alphanumeric
 --------------
+Task :
+You just need to take string input and checks whether the string consists of alphanumeric characters.
+
+Input Format :
+You will be given a function with string as an argument.
+
+Output Format :
+You need to return the boolean value(either True or False).
+
+Sample Test Case:
+Sample Input:
+this2009
+
+Sample Output:
+1
 --------------
 Solution - StringAlphaNum.java
 --------------
 
 String Alphabetics 
 --------------
+Task :
+You just need to take string input and checks whether the string consists of alphabetic characters only.
+
+Input Format :
+You will be given a function with a string as an argument.
+
+Output Format :
+You need to return the boolean value(either True or False).
+
+Sample Test Case:
+Sample Input:
+this2009
+
+Sample Output:
+0
 --------------
 Solution - StringAlphabetix.java
 --------------
 
 Digitizing 
 --------------
+Task : 
+You just need to take string input and checks whether the string consists of digits only. 
+
+Input Format : 
+You will be given a function with string as an argument. 
+
+Output Format : 
+You need to return the boolean value(either True or False) from the given function. 
+
+Sample Test Case: 
+Sample Input:
+this2009 
+
+Sample Output: 
+0 
 --------------
 Solution - Digitizing.java
 --------------
 
 Lowercase 
 --------------
+Task : 
+You just need to take string input and checks whether all the case-based characters (letters) of the string are lowercase. 
+
+Input Format : 
+You will be given a function with string as an argument. 
+
+Output Format : 
+You need to return the boolean value(either True or False). 
+
+Sample Test Case: 
+Sample Input:
+this 
+
+Sample Output: 
+1 
 --------------
 Solution - Lowercase.java
 --------------
 
 Numeric 
 --------------
+Task : 
+You just need to take string input and checks whether the string consists of only numeric characters. 
+
+Input Format : 
+You will be given a function with string as single argument. 
+
+Output Format : 
+You need to return the boolean value(either True or False). 
+
+Sample Test Case: 
+Sample Input:
+this20008 
+
+Sample Output: 
+0 
 --------------
 Solution - Numeric.java
 --------------
 
 Title 
 --------------
+Task :
+You just need to take string input and checks whether all the case-based characters in the string following non-casebased letters. Non-casebased letters are uppercase and all other case-based characters are lowercase.
+
+Input Format :
+You will be given a function with string as single argument.
+
+Output Format :
+You need to return the boolean value(either True or False).
+
+Sample Test Case:
+Sample Input:
+This Is String Example
+
+Sample Output:
+1
 --------------
 Solution - TitleCase.java
 --------------
