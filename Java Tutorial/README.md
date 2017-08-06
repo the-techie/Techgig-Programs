@@ -22,7 +22,8 @@
 ----------
 
 
-<h4>1. First N First</h4>
+**1. First N First**
+-----------
 
 **Task :**
 
@@ -54,8 +55,9 @@ You need to return the first character of the given string as a string to the ST
 
 
 
-<h4>2. String Slice</ h4>
- 
+**2. String Slice**
+-----------
+
 **Task :** 
 
 You need to take string input and two other numbers which will be the start and end point of the slice and you need to print that slice of string. 
@@ -90,7 +92,8 @@ You need to return the slice of the string.
 ----------
 
 
-<h4>3. Connection of Strings</ h4>
+**3. Connection of Strings**
+-----------
 
 **Task :** 
 
@@ -124,7 +127,8 @@ You need to return the concatenated string from the given function.
 
 ----------
 
-<h4>4. String Repetition</ h4>
+**4. String Repetition**
+-----------
 
 **Task :** 
 
@@ -159,7 +163,8 @@ You need to return the string from the given function.
 ----------
 
 
-<h4>5. Membership In Strings</ h4>
+**5. Membership In Strings**
+-----------
 
 **Task :** 
 
@@ -194,7 +199,8 @@ return 'True' if that character is present in that string otherwise return 'Fals
 ----------
 
 
-<h4>6. First Capitalizing in Strings</ h4>
+**6. First Capitalizing in Strings**
+-----------
 
 **Task :** 
 
@@ -228,7 +234,8 @@ You need to return the string from the given function.
 ----------
 
 
-<h4>7. String Counting</ h4>
+**7. String Counting**
+-----------
 
 **Task :** 
 
@@ -263,7 +270,8 @@ You need to return the count from the given function.
 ----------
 
 
-<h4>8. String with Suffix</ h4>
+**8. String with Suffix**
+-----------
 
 **Task :** 
 
@@ -297,7 +305,8 @@ You need to return the boolean value(either True or False) to the STDOUT.
 ----------
 
 
-<h4>9. String Alphanumeric</ h4>
+**9. String Alphanumeric**
+-----------
 
 **Task :**
 
@@ -331,7 +340,8 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-<h4>10. String Alphabetics</ h4> 
+**10. String Alphabetics** 
+-----------
 
 **Task :**
 
@@ -365,7 +375,8 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-<h4>11. Digitizing</ h4> 
+**11. Digitizing**
+-----------
 
 **Task :** 
 
@@ -390,14 +401,16 @@ You need to return the boolean value(either True or False) from the given functi
     0
 
 
- ----------
+----------
 
 > **Solution -** [Digitizing.java](#)
 
 
 ----------
 
-<h4>12. Lowercase**</ h4> 
+
+**12. Lowercase** 
+-----------
 
 **Task :** 
 
@@ -431,7 +444,8 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-<h4>13. Numeric</ h4> 
+**13. Numeric**
+-----------
 
 **Task :** 
 
@@ -466,7 +480,8 @@ You need to return the boolean value(either True or False).
 ----------
 
 
-<h4>14. Title</ h4> 
+**14. Title**
+-----------
 
 **Task :**
 
