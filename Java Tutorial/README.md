@@ -1,46 +1,42 @@
-Introduction
-=
-Programs - https://www.techgig.com/practice/java/java-introduction
--
+# Introduction
+### Programs - https://www.techgig.com/practice/java/java-introduction
 
 
 
-Basic Data Type
-=
-Programs - https://www.techgig.com/practice/java/java-basic-data-type
--
+## Basic Data Type
+### Programs - https://www.techgig.com/practice/java/java-basic-data-type
 
 
 
 
-Strings
-=
-Programs - https://www.techgig.com/practice/java/java-strings
--
+## Strings
+### Programs - https://www.techgig.com/practice/java/java-strings
 
-First N First
--------------
-Task : 
+### First N First
+**Task :** 
+
 You will be given a string and you are asked to find the first character of the string. 
 
-Input Format : 
+**Input Format :** 
+
 You will be given a function with string as single argument. 
 
-Output Format : 
+**Output Format :** 
+
 You need to return the first character of the given string as a string to the STDOUT. 
 
-Sample Test Case: 
+**Sample Test Case:** 
 Sample Input:
+
 Hello Techgig
 
 Sample Output: 
-H 
---------------
-Solution - FirstNFirst.java
---------------
 
-String Slice 
---------------
+H 
+
+> Solution - FirstNFirst.java
+
+### String Slice 
 Task : 
 You need to take string input and two other numbers which will be the start and end point of the slice and you need to print that slice of string. 
 
