@@ -1,12 +1,12 @@
 **1. Introduction**
--------------------
+===================
 **All Programs -** https://www.techgig.com/practice/java/java-introduction
 
 
 ----------
 
 **2. Basic Data Type**
----------------
+===================
 **All Programs -** https://www.techgig.com/practice/java/java-basic-data-type
 
 
@@ -14,7 +14,7 @@
 
 
 **3. Strings**
--------
+===================
 
 **All Programs -** https://www.techgig.com/practice/java/java-strings
 
@@ -501,7 +501,7 @@ You need to return the boolean value(either True or False).
 
 
 **4. Exception Handling**
-----------------------
+===================
 
 All Programs - https://www.techgig.com/practice/java/exception-handling
 
@@ -510,7 +510,7 @@ All Programs - https://www.techgig.com/practice/java/exception-handling
 
 
 **5. Object Oriented Programming**
--------------------------------
+===================
 
  
 All Programs - https://www.techgig.com/practice/java/object-oriented-programming
@@ -520,7 +520,7 @@ All Programs - https://www.techgig.com/practice/java/object-oriented-programming
 
 
 **6. Final Project**
------------------
+===================
 
 All Programs - https://www.techgig.com/practice/java/final-project
 
@@ -529,7 +529,7 @@ All Programs - https://www.techgig.com/practice/java/final-project
 
 
 **7. Advanced**
-------------
+===================
 
 All Programs - https://www.techgig.com/practice/java/java-advanced
 
