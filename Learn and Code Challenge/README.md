@@ -136,7 +136,7 @@
 >
 > **Solution (ii) :** [GCDDemo2.java](GCDDemo2.java)
 >
-> **Solution (iii) :** [GCDEuclideanDemo.java](GCDEuclideanDemo.java) - Euclidean Method
+> **Solution (iii) :** [GCDEuclideanDemo.java](GCDEuclideanDemo.java) - [Euclidean Method](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 >
 > **Solution (iv) :** [GCDRecursionDemo.java](GCDRecursionDemo.java) - Recursion Method
 
