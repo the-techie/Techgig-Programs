@@ -538,10 +538,8 @@ print the single integer result to the stdout.
     9
 
 ### Explanation:
-81 = 3*3*3*3          
-
-153 = 3*3*17          
-
+81 = 3*3*3*3
+153 = 3*3*17
 so common to both is 3*3 which is 9.
 
 ---------
@@ -640,7 +638,8 @@ This is a traditional conversion which needs to be implemented in programming.
 ## Day 20 : Star Pattern
 
 ### Task: 
-you need to print the following pattern
+You need to print the following pattern
+
     * * * * *
     * * * * *
     * * * * *
