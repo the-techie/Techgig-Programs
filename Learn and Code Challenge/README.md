@@ -93,7 +93,9 @@ Just print the simple interest value after performing the calculation using the 
 
 ### Explanation: 
 Given the value of principal, interest and year. You can calculate the simple interest using the formula 
+
 Sample Interest = (principal * interest * year)/100 
+
 Round the value to the nearest integer and print it.
 
 ----------
@@ -153,7 +155,9 @@ Print the value which you will get after calculating the factorial of the input.
 
 ### Explanation: 
 For a number, we will calculate its factorial by multiplying the number with the numbers which comes between 1(inclusive) and the number itself. 
+
 For input as 5, its factorial will be 1*2*3*4*5 = 120. 
+
 factorial of n (n!) = 1*2*3*4....n
 
 
@@ -184,9 +188,13 @@ Print the value which you will get after calculating the number of digits.
 ### Explanation: 
 Every time you divide the input number by 10, one digit get reduced and you need to maintain a count of that until the input number reduced to 0. The count value is your answer. 
 34567/10 = 3456   count = 1 
+
 3456/10 = 345     count = 2 
+
 345/10 = 34       count = 3 
+
 34/10 = 3         count = 4 
+
 3/10 = 0          count = 5
 
 
@@ -217,6 +225,7 @@ output will be the single number which tells how many prime numbers are there be
 
 ### Explanation: 
 There are 7 prime numbers which lies in the given range. 
+
 They are 3, 5, 7, 11, 13, 17, 19
 
 ----------
@@ -237,7 +246,7 @@ A single integer value to be taken as input from stdin and stored it in a variab
 print 'True' if your number is Armstrong otherwise print 'False' to the stdout. 
 
 ### Sample Test Case:
-####Sample Input: 
+#### Sample Input: 
     153
 
 #### Sample Output: 
@@ -248,10 +257,13 @@ First of all, what is a Armstrong Number?
 An Armstrong number of three digits is an integer such that the sum of the cubes of its digits is equal to the number itself. 
 
 For example, take the number 153 
+
 153 = 1^3 + 5^3 + 3^3 
+
 So, this is a Armstrong Number. 
 
 Take Another Example, now the number is 372 
+
 372 != 3^3 + 7^3 + 2^3
 
 
@@ -281,13 +293,17 @@ print 'True' if your number is Narcissistic otherwise print 'False' to the stdou
 
 ### Explanation: 
 First of all, what is a Narcissistic Number? 
+
 An n-digit number that is the sum of the nth powers of its digits is called an n-narcissistic number. 
 
 For example, take the number 1634 
+
 1634 = 1^4 + 6^4 + 3^4 + 4^4 
+
 So, this is a Narcissistic Number. 
 
 Take Another Example, now the number is 372 
+
 372 != 3^3 + 7^3 + 2^3
 
 
@@ -327,6 +343,26 @@ Of all the given elements, search the second largest element.
 
 ## Day 11 : Count the Letters
 
+### Task: 
+For this challenge, you need to take a string as an input from the stdin, count the number of uppercase and lowercase letters and print them to the stdout. 
+
+### Input Format: 
+A single line of string to be taken as an input and store it in a variable of your choice. 
+
+### Output Format: 
+print the number of uppercase letters on one line and number of lowercase letters on another side. 
+
+### Sample Test Case:
+#### Sample Input: 
+    Techgig Is The Best Coding Platform.
+
+#### Sample Output: 
+    6 
+    24
+
+### Explanation: 
+For the above string which is taken as input, it has 6 uppercase letters which is displayed on one line and 24 lowercase letters which is displayed on another line.
+
 ----------
 
 > **Solution :** [StringCounterDemo.java](StringCounterDemo.java)
@@ -334,6 +370,42 @@ Of all the given elements, search the second largest element.
 ----------
 
 ## Day 12 : Patch Up two Matrices
+
+### Task: 
+For this challenge, you need to take 2 matrices as an input from the stdin , add them and print the resultant matrix to the stdout. 
+
+### Input Format: 
+Two matrices to be taken as an input. 
+
+For each matrix, on first line you need to tell that how many rows and columns your matrix need to have and these values should be separated by space. 
+
+Then after that, each line will represent will represent each row and you need to enter numbers which each rows should have separated by a space. 
+
+### Output Format: 
+print the resultant matrix to the stdout where each each line should represent each row and values in the row should be separated by a space. 
+
+### Sample Test Case:
+#### Sample Input: 
+    3 3 
+    1 2 3 
+    4 5 6 
+    7 8 9 
+    3 3 
+    2 3 4 
+    5 6 7 
+    7 8 9
+
+#### Sample Output: 
+    3 5 7 
+    9 11 13 
+    14 16 18
+
+### Note: 
+Please do not include space after the numbers which are in the last column as it will affect your submission and you will not get marks. 
+
+### Explanation: 
+Two matrices must have an equal number of rows and columns to be added. The sum of two matrices A and B will be a matrix which has the same number of rows and columns as do A and B. The sum of A and B, denoted A + B, is computed by adding corresponding elements of A and B.
+
 
 ----------
 
@@ -343,6 +415,30 @@ Of all the given elements, search the second largest element.
 
 ## Day 13 : Roll your Matrix
 
+### Task: 
+For this challenge, you need to take a matrix as an input from the stdin , transpose it and print the resultant matrix to the stdout. 
+
+### Input Format: 
+A matrix is to be taken as input from stdin.On first line you need to tell that how many rows and columns your matrix need to have and these values should be separated by space. Below lines will represent the elements of the matrix where each line will represent the row of the matrix.
+
+### Output Format: 
+Print the resultant matrix to the stdout where each line should represent each row and values in the row should be separated by a space. 
+
+### Sample Test Case:
+#### Sample Input: 
+    3 3 
+    1 2 3 
+    4 5 6 
+    7 8 9
+
+#### Sample Output: 
+    1 4 7 
+    2 5 8 
+    3 6 9
+
+### Explanation: 
+The transpose of a matrix is a new matrix whose rows are the columns of the original.
+
 ----------
 
 > **Solution :** [MatrixRollDemo.java](MatrixRollDemo.java)
@@ -350,6 +446,45 @@ Of all the given elements, search the second largest element.
 ----------
 
 ## Day 14 : Let's Make a Dictionary Order
+
+### Task: 
+You need to input N words one on each line and output should be lexicographically sorted i.e the words which comes as a output should be lexicographically sorted. 
+
+### Input Format: 
+You will be taking an integer N from STDIN. 
+Following N lines contains string one on each line. 
+
+### Output Format: 
+The words should be lexicographically sorted and should be displayed one per each line. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    10 
+    fortran 
+    java 
+    perl 
+    python 
+    php 
+    javascript 
+    c 
+    cpp 
+    ruby 
+    csharp
+
+#### Sample Output: 
+    c 
+    cpp 
+    csharp 
+    fortran 
+    java 
+    javascript 
+    perl 
+    php 
+    python 
+    ruby
+
+### Explanation: 
+In mathematics, the lexicographic or lexicographical order (also known as lexical order, dictionary order, alphabetical order or lexicographical product) is a generalization of the way the alphabetical order of words is based on the alphabetical order of their component letters.
 
 ----------
 
@@ -359,6 +494,25 @@ Of all the given elements, search the second largest element.
 
 ## Day 15 : Calculate Power using Recursion 
 
+### Task: 
+This program takes two integers from user ( base number and a exponent) and calculates the power. Instead of using loops to calculate power, this program uses recursion to calculate the power of a number. 
+
+### Input Format: 
+For this challenge, you need to take 2 integer inputs from stdin which are separated by a single space. 
+
+### Output Format: 
+You will print the answer to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    3 3
+
+#### Sample Output: 
+    27
+
+### Explanation: 
+    3^3 = 3*3*3 = 27
+
 ----------
 
 > **Solution :** [PowerRecursionDemo.java](PowerRecursionDemo.java)
@@ -367,7 +521,30 @@ Of all the given elements, search the second largest element.
 
 ## Day 16 : GCD of Two Numbers
 
-----------
+### Task:
+For this challenge, you need to take input of two numbers , calculate their greatest common divisor(GCD) and print it to the stdout. 
+
+### Input Format: 
+You need to take two integers as an input which are separated by a single space. 
+
+### Output Format: 
+print the single integer result to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    81 153
+
+#### Sample Output: 
+    9
+
+### Explanation:
+81 = 3*3*3*3          
+
+153 = 3*3*17          
+
+so common to both is 3*3 which is 9.
+
+---------
 
 > **Solution (i) :** [GCDDemo.java](GCDDemo.java)
 >
@@ -381,6 +558,24 @@ Of all the given elements, search the second largest element.
 
 ## Day 17 : Find Pairs in Array
 
+### Task: 
+For this challenge, you need to take array and an integer as an input, check for pair in array with sum as that of an integer and if you find those two numbers in the array return true else return false. 
+
+### Input Format: 
+You need to take an integer input on first line which tells about the size of the array.Another line will have array elements separated by spaces. Last line will have an integer input that defines the number for which the pair has to be searched in the array. 
+
+### Output Format: 
+print 'True' if the pair found in the array element else print 'False' to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    6 
+    14 45 6 10 -8
+    16
+
+#### Sample Output:
+    True
+
 ----------
 
 > **Solution :** [FindInArrayDemo.java](FindInArrayDemo.java)
@@ -388,6 +583,26 @@ Of all the given elements, search the second largest element.
 ----------
 
 ## Day 18 : Minimum Effort - Maximum Output
+
+### Task: 
+For this challenge, Given an unsorted array arr[0..n-1] of size n, find the minimum length subarray arr[s..e] such that sorting this subarray makes the whole array sorted. 
+
+### Input Format: 
+On the first line, you need to take an integer input which will be the length of the array. Another line will have space separated integer values. 
+
+### Output Format: 
+space separated integer values present in the subarray. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    11 
+    10 12 20 30 25 40 32 31 35 50 60
+
+#### Sample Output: 
+    30 25 40 32 31 35
+
+### Explanation:
+You are given an array and you need to find a subarray that if you sorted the whole array got sorted.
 
 ----------
 
@@ -397,6 +612,25 @@ Of all the given elements, search the second largest element.
 
 ## Day 19 : Binary to Decimal
 
+### Task: 
+You will be getting a binary number as an input and you need to convert it into a decimal number. 
+
+### Input Format: 
+you will be taking a binary number as an input. 
+
+### Output Format: 
+print the decimal number to the stdout. 
+
+### Sample Test case: 
+#### Sample Input: 
+    111
+
+#### Sample Output: 
+    7
+
+### Explanation:
+This is a traditional conversion which needs to be implemented in programming.
+
 ----------
 
 > **Solution :** [BinaryToDecimalDemo.java](BinaryToDecimalDemo.java)
@@ -404,6 +638,24 @@ Of all the given elements, search the second largest element.
 ----------
 
 ## Day 20 : Star Pattern
+
+### Task: 
+you need to print the following pattern
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+
+### Input Format: 
+    none 
+
+### Output Format:
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
 
 ----------
 
