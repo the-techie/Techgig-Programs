@@ -539,7 +539,9 @@ print the single integer result to the stdout.
 
 ### Explanation:
 81 = 3*3*3*3
+
 153 = 3*3*17
+
 so common to both is 3*3 which is 9.
 
 
@@ -639,7 +641,7 @@ This is a traditional conversion which needs to be implemented in programming.
 ## Day 20 : Star Pattern
 
 ### Task: 
-You need to print the following pattern
+You need to print the following pattern 
 
     * * * * *
     * * * * *
@@ -889,12 +891,16 @@ For the above numbers, the sum of the digits for 345 comes out to be 12 and that
 ## Day 29 : Comparing diagonals of a Matrix
 
 ### Task: 
-For this challenge, you need to take a matrix as an input from the stdin , calculate the sum of the digits for each diagonal and compare them.For example, 
-in the below matrix 
-1 2 3 
-4 5 6 
-7 8 9 
+For this challenge, you need to take a matrix as an input from the stdin , calculate the sum of the digits for each diagonal and compare them.
+
+For example, in the below matrix 
+
+    1 2 3 
+    4 5 6 
+    7 8 9 
+
 Diagonal 1 is 1,5,9. 
+
 Diagonal 2 is 3,5,7. 
 
 ### Input Format: 
@@ -926,12 +932,16 @@ The sum of the digits for the diagonal 1 is 15 and that of diagonal 2 is also sa
 
 ### Task: 
 For this challenge, you need to take a matrix as an input from the stdin , identify which row has maximum sum of the digits.For example, in the below matrix
-1 2 3
-4 5 6
-7 8 9
+
+    1 2 3
+    4 5 6
+    7 8 9
+
 Row 1 is 1,2,3
+
 Row 2 is 4,5,6
-Row 3 is 7,8,9 
+
+Row 3 is 7,8,9
 
 ### Input Format:
 A matrix is to be taken as input from stdin.On first line you need to tell that how many rows and columns your matrix need to have and these values should be separated by space. 
