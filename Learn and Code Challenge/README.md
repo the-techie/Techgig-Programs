@@ -511,7 +511,7 @@ You will print the answer to the stdout.
     27
 
 ### Explanation: 
-    3^3 = 3*3*3 = 27
+3^3 = 3*3*3 = 27
 
 ----------
 
@@ -541,6 +541,7 @@ print the single integer result to the stdout.
 81 = 3*3*3*3
 153 = 3*3*17
 so common to both is 3*3 which is 9.
+
 
 ---------
 
