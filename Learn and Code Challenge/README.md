@@ -925,14 +925,12 @@ The sum of the digits for the diagonal 1 is 15 and that of diagonal 2 is also sa
 ## Day 30 : Comparing Rows of a Matrix
 
 ### Task: 
-For this challenge, you need to take a matrix as an input from the stdin , identify which row has maximum sum of the digits.For example, in the below matrix 
-
-1 2 3 
-4 5 6 
-7 8 9 
-
-Row 1 is 1,2,3 
-Row 2 is 4,5,6 
+For this challenge, you need to take a matrix as an input from the stdin , identify which row has maximum sum of the digits.For example, in the below matrix
+1 2 3
+4 5 6
+7 8 9
+Row 1 is 1,2,3
+Row 2 is 4,5,6
 Row 3 is 7,8,9 
 
 ### Input Format:
