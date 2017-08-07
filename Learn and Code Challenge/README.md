@@ -665,6 +665,26 @@ You need to print the following pattern
 
 ## Day 21 : Multiply Sum of Odds with Sum of Evens
 
+### Task: 
+For this challenge, you need to take number of elements as input on one line and array elements as an input on another line. You need to find the numbers that are odd, add them. find the numbers that are even add them and then multiply the two values that you get after addition of even numbers and that of addition of odd numbers. 
+
+### Input Format: 
+In this challenge, you will take number of elements as input on one line and array elements which are space separated as input on another line. 
+
+### Output Format: 
+You will print the value after multiplication to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input:
+    5 
+    23 11 24 13 55
+
+#### Sample Output: 
+    2448
+
+#### Explanation: 
+Of all the given elements which are in the array, identify numbers that are odd and add them. Identify even numbers and add them. Multiply two values that you get after addition of odd numbers and even numbers.
+
 ----------
 
 > **Solution :** [AddProductOddEvenDemo.java](AddProductOddEvenDemo.java)
@@ -672,6 +692,29 @@ You need to print the following pattern
 ----------
 
 ## Day 22 : War between Odd and Even
+
+### Task: 
+For this challenge, you need to take number of elements as input on one line and array elements as an input on another line. You need to find the numbers that are present at odd index, add them. find the numbers that are present at even index, add them and then subtract the smallest of the two values from the lager one. 
+
+### Note: 
+Array indexes always starts from 0. 
+
+### Input Format: 
+In this challenge, you will take number of elements as input on one line and array elements which are space separated as input on another line. 
+
+### Output Format: 
+You will print the value after subtraction to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    5 
+    23 22 24 13 55
+
+#### Sample Output: 
+    67
+
+### Explanation: 
+Of all the given elements which are in the array, identify numbers that are present at odd index and add them. Identify even index numbers and add them. Subtract the smaller vale from the larger one.
 
 ----------
 
@@ -681,6 +724,26 @@ You need to print the following pattern
 
 ## Day 23 : Maximum vs. Minimum
 
+### Task: 
+For this challenge, you need to take number of elements as input on one line and array elements as an input on another line. You need to find the minimum number and maximum number from the array and multiply them. 
+
+### Input Format: 
+In this challenge, you will take number of elements as input on one line and array elements which are space separated as input on another line. 
+
+### Output Format: 
+You will print the value after multiplication to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    5 
+    23 99 24 13 77
+
+### Sample Output: 
+    6799
+
+### Explanation:
+Of all the given elements which are in the array, find the minimum number and the maximum number and multiply them.
+
 ----------
 
 > **Solution :** [MinVSMaxArrayDemo.java](MinVSMaxArrayDemo.java)
@@ -688,6 +751,24 @@ You need to print the following pattern
 ----------
 
 ## Day 24 : Average Odd Even Demo
+
+### Task: 
+For this challenge, you need to take number of elements as input on one line and array elements as an input on another line. You need to find the average of even numbers, then the average of odd numbers and add them (round the averages to the nearest integers). 
+
+### Input Format: 
+In this challenge, you will take number of elements as input on one line and array elements which are space separated as input on another line. 
+
+### Output Format: 
+You will print the value after addition of the two averages to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    5 
+    23 99 24 13 77
+
+#### Sample Output: 
+    77
+
 
 ----------
 
@@ -697,6 +778,26 @@ You need to print the following pattern
 
 ## Day 25 : Consecutive Array
 
+### Task: 
+For this challenge, you need to take number of elements as input on one line and array elements as an input on another line. You need to tell whether the numbers present in the array are consecutive or not. 
+
+### Input Format: 
+In this challenge, you will take number of elements as input on one line and array elements which are space separated as input on another line. 
+
+### Output Format: 
+If the array elements are consecutive, print 'True' else print 'False' to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    5 
+    11 12 13 14 15
+
+#### Sample Output: 
+    True
+
+### Explanation: 
+All the elements in the given array have a difference of 1 to the previous element. Thus, they are consecutive.
+
 ----------
 
 > **Solution :** [ConsecutiveArrayDemo.java](ConsecutiveArrayDemo.java)
@@ -704,6 +805,25 @@ You need to print the following pattern
 ----------
 
 ## Day 26 : Biggest Digit in a Number
+
+### Task: 
+For this challenge, you will take an integer input from stdin, store it in a variable, find the digits in a number and then print the biggest of them. 
+
+### Input Format: 
+A single integer value to be taken as input from stdin and stored it in a variable of your choice. 
+
+### Output Format: 
+Print the biggest digit in a number. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    34567
+
+#### Sample Output: 
+    7
+
+### Explanation:
+For the above number, firstly get the digits which is their in that number and then compare between them to get the largest digit.
 
 ----------
 
@@ -713,6 +833,25 @@ You need to print the following pattern
 
 ## Day 27 : Play with Digits of a Number
 
+### Task: 
+For this challenge, you will take an integer input from stdin, store it in a variable, find the digits in that number, identify digits that are odd and add them, identify which digits are even and add them. Subtract the smaller with the larger one. 
+
+### Input Format:
+A single integer value to be taken as input from stdin and stored it in a variable of your choice. 
+
+### Output Format: 
+Print the single number after subtraction. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    34567
+
+#### Sample Output: 
+    5
+
+### Explanation: 
+For the above number, 3,5 and 7 are odd digits and their sum is 15. 4 and 6 are even digits and their sum is 10. Now, subtraction of 10 from 15 results 5 which is your answer.
+
 ----------
 
 > **Solution :** [OddEvenSubtractDemo.java](OddEvenSubtractDemo.java)
@@ -720,6 +859,26 @@ You need to print the following pattern
 ----------
 
 ## Day 28 : Compare two Numbers
+
+### Task: 
+For this challenge, you will take two integers input from stdin, sum the digits of a number and same is to be done with another number. Then compare the sum of the digits of two numbers and if one sum found to be greater then print that number to the stdout. If found both sum to be equal then print 'Equal' to the stdout.
+
+### Input Format: 
+Two integer values to be taken as input from stdin. 
+
+### Output Format: 
+Print the single number after comparison. If found equal, then print 'Equal' to the stdout. 
+
+### Sample Test Case: 
+#### Sample Input: 
+    345 434
+
+#### Sample Output: 
+    345
+
+### Explanation: 
+For the above numbers, the sum of the digits for 345 comes out to be 12 and that for 434 would be 11. Then, sum of digits for number 345 comes out to be greater than 434. Hence print 345 to the stdout.
+
 
 ----------
 
@@ -729,6 +888,34 @@ You need to print the following pattern
 
 ## Day 29 : Comparing diagonals of a Matrix
 
+### Task: 
+For this challenge, you need to take a matrix as an input from the stdin , calculate the sum of the digits for each diagonal and compare them.For example, 
+in the below matrix 
+1 2 3 
+4 5 6 
+7 8 9 
+Diagonal 1 is 1,5,9. 
+Diagonal 2 is 3,5,7. 
+
+### Input Format: 
+A matrix is to be taken as input from stdin.On first line you need to tell that how many rows and columns your matrix need to have and these values should be separated by space. 
+
+### Output Format: 
+If sum of digits for diagonal 1 is found to be greater than diagonal 2, then print 'Diagonal 1' to the stdout. If sum of digits for diagonal 2 is found to be greater than diagonal 1, then print 'Diagonal 2' to the stdout. If both of the diagonal found to be equal, then print 'Equal' to the stdout. 
+
+#### Sample Test Case: 
+### Sample Input: 
+    3 3 
+    1 2 3 
+    4 5 6 
+    7 8 9
+
+### Sample Output: 
+    Equal
+
+### Explanation:
+The sum of the digits for the diagonal 1 is 15 and that of diagonal 2 is also same i.e 15. Thus, print 'Equal' to the stdout.
+
 ----------
 
 > **Solution :** [CompareDiagonalMatrixDemo.java](CompareDiagonalMatrixDemo.java)
@@ -737,9 +924,40 @@ You need to print the following pattern
 
 ## Day 30 : Comparing Rows of a Matrix
 
+### Task: 
+For this challenge, you need to take a matrix as an input from the stdin , identify which row has maximum sum of the digits.For example, in the below matrix 
+
+1 2 3 
+4 5 6 
+7 8 9 
+
+Row 1 is 1,2,3 
+Row 2 is 4,5,6 
+Row 3 is 7,8,9 
+
+### Input Format:
+A matrix is to be taken as input from stdin.On first line you need to tell that how many rows and columns your matrix need to have and these values should be separated by space. 
+
+### Output Format: 
+If the sum of the digits of row 1 found to be greater than that of row 2 and row 3, then print 'Row 1' to the stdout. If the sum of all the rows found to be equal, then print 'Equal' to the stdout. 
+
+### Sample Test Case:
+#### Sample Input: 
+    4 4 
+    1 2 3 2 
+    4 5 6 5 
+    7 8 9 6 
+    8 9 9 8
+
+#### Sample Output: 
+    Row 4
+
+### Explanation: 
+The sum of the digits for row 1 is 8 row 2 is 20 row 3 is 30 row 4 is 34.  Thus, printed 'Row 4' to the stdout.
+
 ----------
 
 > **Solution :** [CompareMatrixRowsDemo.java](CompareMatrixRowsDemo.java)
 
-
+----------
 
